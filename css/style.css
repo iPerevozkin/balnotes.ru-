@@ -1,0 +1,273 @@
+body{
+    min-width: 600px;
+}
+.header-top{
+    height: 70px;
+}
+.header-top-con{
+    height: 40px;
+    text-align: center;
+    background-color: black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.top{
+    width: 100%;
+    padding-top: 4%;
+    display: block;
+    text-align: center;
+    font-family: "BeerRegular";
+    font-size: 28px;
+    color: #FF3F11;
+}
+
+.menu{
+    color:black;
+    font-family: "BeerRegular";
+    display: inline-block;
+}
+.menu-con{
+    font-size: 28px !important;
+}
+
+.top-link{
+    padding: 11px 5px 5px 5px;
+    text-align: center;
+}
+.otstup{
+    background-color: black;
+    border-radius: 100px;
+    opacity: 70;
+}
+
+.menu li{
+    list-style-type: none;
+    display: inline-block;
+    }
+.menu li a{
+    padding: 20px;
+    color:black;
+    text-decoration: none;
+    font-family: "BeerRegular";
+}
+.menu-con li a{
+    color: white;
+}
+.content-body{
+    /*background-color: #222;*/
+    width: 100%;
+    height: 100%;
+}
+.font{
+}
+ul.block-b, ul.block-a, ul.block-c, ul.block-d {
+    width: 500px;
+}
+.blockall ul {
+    display: inline-block;
+    font-family: "BeerRegular";
+    font-size: 21px;
+    padding: 0px 40px 0px 40px;
+    text-align: center;
+    margin-top: 30px;
+    list-style-type: none;
+}
+.blockall ul li{
+    border-bottom: 1px solid #E8D6D6;
+}
+.blockall a{
+    text-decoration: none;
+    color: #333;
+}
+.blockall a:focus{
+    color: #7799D0;
+}
+.blockall a:hover{
+    color: #7799D0;
+}
+.search{
+    height: 170px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    padding: 60px 0;
+}
+.search-panel{
+    height: 50px;
+    position: relative;
+}
+.search-panel botton{
+    color: #FF3F11;
+    
+}
+.button-categori{
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    background-color: #fff;
+    cursor: pointer;
+    vertical-align: top;
+    position: absolute;
+    background-color: transparent;
+    color: #FF3F11;
+}
+.categori{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    display: none;
+    background-color: antiquewhite;
+}
+.button-categori batton{
+    font-size: 30px;
+    top: 2px;
+}
+
+.categori .batton{
+    display: inline-block;
+}
+.categori ul{
+    height: 60px;
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+.categori li{
+    height: 50px;
+    width: 150px;
+    padding-top:5px;
+    text-align: center;
+    font-family: "BeerRegular";
+    font-size: 23px;
+    cursor: pointer;
+}
+.batton{
+    border: 2px solid #FFEBD1;
+}
+div.search-panel{
+    width: 500px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+}
+div.search-panel input{
+    width: 100%;
+    height: 35px;
+    border: 2px solid #A0A0A0;
+    border-radius: 7px;
+    text-indent:34px;
+    outline: none;
+    
+}
+
+input.input:focus{
+    border: 2px dashed #FF3F11;
+    border-radius: 7px;
+}
+
+div.button-categori bottom
+.form-text:focus{
+    border: 1px solid red;
+}
+.container{
+    text-align: center;
+}
+h1.title-block {
+    color: cornflowerblue;
+}
+.footer{
+    width: auto;
+    height: 150px;
+}
+.footer-bottom{
+    bottom: 0px;
+    left: 47%;
+    width: auto;
+    height: 150px;
+}
+.footer-link{
+    font-size: 27px;
+    text-align: center;
+    padding-top: 75px;
+    font-family: "BeerRegular";
+    
+}
+::-webkit-input-placeholder {color:#FF3F11;}
+::-moz-placeholder          {color:#FF3F11;}
+:-moz-placeholder           {color:#FF3F11;}
+:-ms-input-placeholder      {color:#FF3F11;}
+
+#big{
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+.active{
+    color: cornflowerblue;
+    border: 1px dashed cornflowerblue;
+    border-radius: 10px;
+}
+.active-color{
+    color: #FFFFFF !important;
+}
+.logo{
+    text-align: center;
+    font-family: "BeerRegular";
+    font-size: 28px;
+    color: #FF3F11;
+}
+.space{
+    height: 70px;
+}
+.iconbar{
+    width: 100% !important;
+    background-color: antiquewhite;
+}
+/*конкурс*/
+.info--luminosity {
+  background-color: steelblue;
+  background-blend-mode: luminosity;
+  }
+
+.info--trans:hover {
+  background-blend-mode: normal;
+  }
+.info--before:hover:before {
+  opacity: 1;
+  }
+.concurs{
+    margin-top: 60px;
+    text-align: center;
+}
+.info{
+    width: 500px;
+    height: 400px;
+    background-color: #EFEFEF;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: 1px solid #C7C7C7;
+    border-radius: 6px;
+    font-family: "BeerRegular";
+    vertical-align: top;
+}
+/*spisok*/
+.novgorod{
+    background-image: url(../img/novgorod.jpg) ;
+    background-size: cover;  
+}
+.petrozav{
+    background-image: url(../img/petrozav.jpg) ;
+    background-size: cover;
+}
+.fon{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.site{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-family: "BeerRegular";
+    margin-top: 3%;
+    font-size: 23px;
+    color: #FF3F11;
+}

@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Alfa Slab One';
+    src: url("../fonts/alfaslabone-regular.eot");
+    src: url("../fonts/alfaslabone-regular.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/alfaslabone-regular.woff") format("woff"),
+         url("../fonts/alfaslabone-regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "ArchiveRegular";
+    src: url("../fonts/ArchiveRegular/ArchiveRegular.eot");
+    src: url("../fonts/ArchiveRegular/ArchiveRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ArchiveRegular/ArchiveRegular.woff") format("woff"),
+    url("../fonts/ArchiveRegular/ArchiveRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
